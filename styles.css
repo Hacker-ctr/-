@@ -4,9 +4,14 @@ header {
     background-color: rgba(131, 58, 225, 1);
     color: rgba(255, 255, 255, 1);
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
 }
 
 header img {
+    text-align: center;
+    display: flex;
     width: 42px;
     height: 53px;
 }
@@ -14,5 +19,63 @@ header img {
 header a {
     height: 24px;
     color:white;
+    text-align: center;
+    font-size: 24px;
+    margin: 0px 35px;
+}
 
+.cvc{
+    margin: 127px 341px 43px 341px;
+    width: 598;
+    height: 35;
+    opacity: 1;
+    top: 220px;
+    left: 341px;
+    text-align: center;
+    size: 45px;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 45px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.xleb {
+    text-align: center;
+    max-width: 988px;
+    font-family: Montserrat;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 50px;
+leading-trim: NONE;
+line-height: 78px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.maclo {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 50px;
+    leading-trim: NONE;
+    line-height: 78px;
+    letter-spacing: 0%;
+    text-align: center;
+    background: rgba(131, 58, 225, 1);
+    color: white;
+    border-radius: 20px;
+    margin: 23px 440px 145px 440px;
+    text-decoration: none;
+    padding: 16px 8px;
 }
