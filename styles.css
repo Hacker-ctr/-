@@ -192,6 +192,7 @@ text-align: center;
     line-height: 35px;
     letter-spacing: 0%;
     text-align: center;
+    display: block;
 }
 
 .pl{
@@ -202,6 +203,7 @@ text-align: center;
     leading-trim: NONE;
     line-height: 32px;
     letter-spacing: 0%;
+    display: block;
 }
 
 .izek{
