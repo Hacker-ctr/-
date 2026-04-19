@@ -159,7 +159,54 @@ text-align: center;
 
 .yniver{
     background: rgba(255, 255, 255, 1);
-    margin: 0px 30px 30px 50px;
+    margin: 0px 15px 30px 50px;
+    max-width: 575px;
+    max-height: 326px;
+    display: block;
+    width: 575;
+    height: 326;
+    top: 1282px;
+    left: 50px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 15px;
+    border-width: 1px;
+}
+
+.yn{
+    width: 95.50525665283203;
+    height: 100;
+    top: 1307px;
+    left: 87.39px;
+    angle: 0 deg;
+    opacity: 1;
+    border-width: 1px;
+}
+
+.ghj{
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 26px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.pl{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 22px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+
+.izek{
+    background: rgba(255, 255, 255, 1);
+    margin: 0px 50px 30px 15px;
     max-width: 575px;
     max-height: 326px;
     display: block;
