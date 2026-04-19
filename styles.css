@@ -79,3 +79,7 @@ text-align: center;
     text-decoration: none;
     padding: 16px 8px;
 }
+
+.o curse{
+    background: linear-gradient(180deg, rgba(203, 248, 109, 0.49) 4.17%, rgba(203, 248, 109, 0.5) 18.23%, #FBF9F9 67.19%);
+}
