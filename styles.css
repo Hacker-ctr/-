@@ -157,11 +157,16 @@ text-align: center;
     text-align: left;
 }
 
+
+.yniverizek{
+    display: flex;
+}
+
 .yniver{
     background: rgba(255, 255, 255, 1);
-    margin: 0px 15px 30px 50px;
+    margin: 0px 30px 30px 30px;
     max-width: 575px;
-    max-height: 326px;
+    max-height: 426px;
     display: block;
     width: 575;
     height: 326;
@@ -171,6 +176,28 @@ text-align: center;
     opacity: 1;
     border-radius: 15px;
     border-width: 1px;
+    border: 1px solid rgba(131, 58, 225, 1);
+    display: flex;
+    flex-direction: column;
+}
+
+.ynivel{
+    background: rgba(255, 255, 255, 1);
+    margin: 0px 50px 30px 0px;
+    max-width: 575px;
+    max-height: 426px;
+    display: block;
+    width: 575;
+    height: 326;
+    top: 1282px;
+    left: 50px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 15px;
+    border-width: 1px;
+    border: 1px solid rgba(131, 58, 225, 1);
+    display: flex;
+    flex-direction: column;
 }
 
 .yn{
@@ -181,6 +208,20 @@ text-align: center;
     angle: 0 deg;
     opacity: 1;
     border-width: 1px;
+    margin: 25px 23.11px 26px 37.39px;
+
+}
+
+.yl{
+    width: 95.50525665283203;
+    height: 100;
+    top: 1307px;
+    left: 87.39px;
+    angle: 0 deg;
+    opacity: 1;
+    border-width: 1px;
+    margin: 25px 26.11px 26px 37.39px;
+
 }
 
 .ghj{
@@ -191,8 +232,22 @@ text-align: center;
     leading-trim: NONE;
     line-height: 35px;
     letter-spacing: 0%;
-    text-align: center;
+    text-align: left;
     display: block;
+    margin: 53px 79.31px 63px 0px;
+}
+
+.ghl{
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 26px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: left;
+    display: block;
+    margin: 53px 32.31px 63px 0px;
 }
 
 .pl{
@@ -204,6 +259,10 @@ text-align: center;
     line-height: 32px;
     letter-spacing: 0%;
     display: block;
+    text-align: left;
+    margin: 0px 35px 47px 38px;
+    flex-direction: column;
+    min-height: 128px;
 }
 
 .izek{
@@ -220,4 +279,10 @@ text-align: center;
     opacity: 1;
     border-radius: 15px;
     border-width: 1px;
+    border: 1px solid rgba(131, 58, 225, 1)
+}
+
+
+.iii{
+    display: flex;
 }
