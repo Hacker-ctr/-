@@ -12,8 +12,8 @@ header {
 header img {
     text-align: center;
     display: flex;
-    width: 42px;
-    height: 53px;
+    width: 55px;
+    height: 62px;
 }
 
 header a {
@@ -457,6 +457,7 @@ text-align: center;
     max-width: 500px;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
+    text-decoration: none;
 }
 
 .pq{
@@ -483,6 +484,7 @@ text-align: center;
     max-width: 500px;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
+    text-decoration: none;
 }
 
 .pw{
@@ -509,6 +511,7 @@ text-align: center;
     max-width: 500px;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
+    text-decoration: none;
     }
 
     .pe{
@@ -535,6 +538,7 @@ text-align: center;
     max-width: 500px;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
+    text-decoration: none;
     }
 
     .pr{
@@ -561,6 +565,7 @@ text-align: center;
     max-width: 500px;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
+    text-decoration: none;
     }
 
     .pt{
@@ -583,10 +588,11 @@ text-align: center;
     vertical-align: middle;
     border: 1px solid rgba(96, 43, 122, 0.96);
     padding: 30px;
-    margin: 0px 105px 40px 0px;
+    margin: 0px 100px 40px 0px;
     max-width: 500px;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
+    text-decoration: none;
     }
 
     .py{
@@ -613,6 +619,7 @@ text-align: center;
     max-width: 500px;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
+    text-decoration: none;
     }
 
     .pu{
@@ -639,6 +646,7 @@ text-align: center;
     max-width: 500px;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
+    text-decoration: none;
     }
 
 .yhenic{
@@ -699,6 +707,10 @@ line-height: 35px;
 letter-spacing: 0%;
 color: rgba(96, 43, 122, 0.96);
 margin: 0px 402px 117px 50px;
+}
+
+.dd{
+    color: rgba(96, 43, 122, 0.96);
 }
 
 .imgt{
