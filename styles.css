@@ -418,6 +418,15 @@ text-align: center;
 
 .obq{
     flex-direction: column;
+    width: 1070;
+    height: 472;
+    top: 2434px;
+    left: 105px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 18px;
+    border-width: 1px;
+
 }
 
 .fir{
@@ -445,6 +454,9 @@ text-align: center;
     border: 1px solid rgba(96, 43, 122, 0.96);
     padding: 30px;
     margin: 0px 70px 40px 105px;
+    max-width: 500px;
+    color: rgba(96, 43, 122, 0.96);
+    width: 100%;
 }
 
 .pq{
@@ -468,5 +480,165 @@ text-align: center;
     border: 1px solid rgba(96, 43, 122, 0.96);
     padding: 30px;
     margin: 0px 105px 40px 0px;
-
+    max-width: 500px;
+    color: rgba(96, 43, 122, 0.96);
+    width: 100%;
 }
+
+.pw{
+    width: 500;
+    height: 88;
+    top: 2434px;
+    left: 105px;
+    border-width: 1px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 18px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgba(96, 43, 122, 0.96);
+    padding: 30px;
+    margin: 0px 70px 40px 105px;
+    max-width: 500px;
+    color: rgba(96, 43, 122, 0.96);
+    width: 100%;
+    }
+
+    .pe{
+    width: 500;
+    height: 88;
+    top: 2434px;
+    left: 105px;
+    border-width: 1px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 18px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgba(96, 43, 122, 0.96);
+    padding: 30px;
+    margin: 0px 105px 40px 0px;
+    max-width: 500px;
+    color: rgba(96, 43, 122, 0.96);
+    width: 100%;
+    }
+
+    .pr{
+    width: 500;
+    height: 88;
+    top: 2434px;
+    left: 105px;
+    border-width: 1px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 18px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgba(96, 43, 122, 0.96);
+    padding: 30px;
+    margin: 0px 70px 40px 105px;
+    max-width: 500px;
+    color: rgba(96, 43, 122, 0.96);
+    width: 100%;
+    }
+
+    .pt{
+    width: 500;
+    height: 88;
+    top: 2434px;
+    left: 105px;
+    border-width: 1px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 18px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgba(96, 43, 122, 0.96);
+    padding: 30px;
+    margin: 0px 105px 40px 0px;
+    max-width: 500px;
+    color: rgba(96, 43, 122, 0.96);
+    width: 100%;
+    }
+
+    .py{
+    width: 500;
+    height: 88;
+    top: 2434px;
+    left: 105px;
+    border-width: 1px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 18px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgba(96, 43, 122, 0.96);
+    padding: 30px;
+    margin: 0px 70px 69px 105px;
+    max-width: 500px;
+    color: rgba(96, 43, 122, 0.96);
+    width: 100%;
+    }
+
+    .pu{
+    width: 500;
+    height: 88;
+    top: 2434px;
+    left: 105px;
+    border-width: 1px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 18px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgba(96, 43, 122, 0.96);
+    padding: 30px;
+    margin: 0px 105px 69px 0px;
+    max-width: 500px;
+    color: rgba(96, 43, 122, 0.96);
+    width: 100%;
+    }
+
+    
