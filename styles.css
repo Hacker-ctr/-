@@ -209,7 +209,7 @@ text-align: center;
     opacity: 1;
     border-width: 1px;
     margin: 25px 23.11px 26px 37.39px;
-
+    color: rgba(96, 43, 122, 0.96);
 }
 
 .yl{
@@ -221,6 +221,7 @@ text-align: center;
     opacity: 1;
     border-width: 1px;
     margin: 25px 26.11px 26px 37.39px;
+    color: rgba(96, 43, 122, 0.96);
 
 }
 
@@ -235,6 +236,7 @@ text-align: center;
     text-align: left;
     display: block;
     margin: 53px 79.31px 63px 0px;
+    color: rgba(96, 43, 122, 0.96);
 }
 
 .ghl{
@@ -248,6 +250,7 @@ text-align: center;
     text-align: left;
     display: block;
     margin: 53px 32.31px 63px 0px;
+    color: rgba(96, 43, 122, 0.96);
 }
 
 .pl{
@@ -263,6 +266,7 @@ text-align: center;
     margin: 0px 35px 47px 38px;
     flex-direction: column;
     min-height: 128px;
+    color: rgba(96, 43, 122, 0.96);
 }
 
 .izek{
@@ -309,12 +313,9 @@ text-align: center;
 .nv{
     width: 95.50525665283203;
     height: 100;
-    top: 1307px;
-    left: 87.39px;
-    angle: 0 deg;
-    opacity: 1;
-    border-width: 1px;
-    margin: 25px 20.04px 33px 34.63px
+    margin: 25px 20.04px 33px 34.63px;
+    color: rgba(96, 43, 122, 0.96);
+    max-width: 100px;
 }
 
 .hv{
@@ -328,6 +329,7 @@ text-align: center;
     text-align: left;
     display: block;
     margin: 57px 32px 66px 0px; 
+    color: rgba(96, 43, 122, 0.96);
 }
 
 .pv{
@@ -343,6 +345,7 @@ text-align: center;
     margin: 0px 31.62px 40px 34.67px;
     flex-direction: column;
     min-height: 128px;
+    color: rgba(96, 43, 122, 0.96);
 }
 
 .texnologii{
@@ -692,7 +695,7 @@ margin: 0px 734px 42px 30px;
 }
 
 .asd{
-    width: 498;
+    width: 598;
 height: 213;
 top: 3312px;
 left: 30px;
@@ -706,7 +709,7 @@ leading-trim: NONE;
 line-height: 35px;
 letter-spacing: 0%;
 color: rgba(96, 43, 122, 0.96);
-margin: 0px 402px 117px 50px;
+margin: 0px 202px 117px 50px;
 }
 
 .dd{
@@ -767,7 +770,21 @@ color: rgba(96, 43, 122, 0.96);
 }
 
 .yy{
-    margin: 0px 259.08px 30px 22.62px;
+    margin: 0px 29.08px 30px 30px;
+    font-family: Montserrat;
+font-weight: 300;
+font-style: Italic;
+font-size: 17px;
+leading-trim: NONE;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+color: rgba(96, 43, 122, 0.96);
+    width: 100%;
+}
+
+.yo{
+    margin: 0px 28.52px 30px 0px;
     font-family: Montserrat;
 font-weight: 300;
 font-style: Italic;
@@ -777,20 +794,7 @@ line-height: 22px;
 letter-spacing: 0%;
 text-align: center;
 color: rgba(96, 43, 122, 0.96);
-
-}
-
-.yo{
-    margin: 0px 238.52px 30px 0px;
-        font-family: Montserrat;
-font-weight: 300;
-font-style: Italic;
-font-size: 17px;
-leading-trim: NONE;
-line-height: 22px;
-letter-spacing: 0%;
-text-align: center;
-color: rgba(96, 43, 122, 0.96);
+width: 100%;
 }
 
 .yp{
@@ -802,6 +806,9 @@ font-size: 17px;
 leading-trim: NONE;
 line-height: 22px;
 letter-spacing: 0%;
-text-align: center;
+text-align: right;
 color: rgba(96, 43, 122, 0.96);
+width: 100%;
 }
+
+
