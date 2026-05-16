@@ -16,12 +16,20 @@ header img {
     height: 62px;
 }
 
+header a:hover {
+    transform: scale(1.2);
+    transition: .5s;
+    display: inline-block;
+}
+
 header a {
     height: 24px;
     color:white;
     text-align: center;
     font-size: 24px;
     margin: 0px 35px;
+    transition: .5s;
+    display: inline-block;
 }
 
 .cvc{
@@ -62,6 +70,13 @@ text-align: center;
     align-items: center;
 }
 
+.maclo:hover {
+    transition: 1s;
+    display: inline-block;
+    background: rgba(251, 249, 249, 1);
+    color: rgba(131, 58, 225, 1);
+}
+
 
 .maclo {
     font-family: Montserrat;
@@ -78,6 +93,9 @@ text-align: center;
     margin: 23px 440px 145px 440px;
     text-decoration: none;
     padding: 16px 8px;
+    transition: 2s;
+    display: inline-block;
+    border: 1px solid rgba(131, 58, 225, 1);
 }
 
 .ocurse{
@@ -179,6 +197,54 @@ text-align: center;
     border: 1px solid rgba(131, 58, 225, 1);
     display: flex;
     flex-direction: column;
+    transition: 2s;
+    display: inline-block;
+}
+
+.yniver:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+}
+
+.yniver:hover .ghj{
+    transition: 1s;
+    display: inline-block;
+    color: rgba(251, 249, 249, 1);
+}
+
+
+.yniver:hover .pl{
+    transition: 1s;
+    display: inline-block;
+    color: rgba(251, 249, 249, 1);
+}
+
+
+
+.ynivel:hover .pl{
+    transition: 1s;
+    display: inline-block;
+    color: rgba(251, 249, 249, 1);
+}
+
+.ynivel:hover .ghl{
+    transition: 1s;
+    display: inline-block;
+    color: rgba(251, 249, 249, 1);
+}
+
+
+.naviki:hover .hv{
+    transition: 1s;
+    display: inline-block;
+    color: rgba(251, 249, 249, 1);
+}
+
+.naviki:hover .pv{
+    transition: 1s;
+    display: inline-block;
+    color: rgba(251, 249, 249, 1);
 }
 
 .ynivel{
@@ -198,6 +264,14 @@ text-align: center;
     border: 1px solid rgba(131, 58, 225, 1);
     display: flex;
     flex-direction: column;
+    transition: 2s;
+    display: inline-block;
+}
+
+.ynivel:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
 }
 
 .yn{
@@ -308,6 +382,14 @@ text-align: center;
     border: 1px solid rgba(131, 58, 225, 1);
     display: flex;
     flex-direction: column;
+    transition: 2s;
+    display: inline-block;
+}
+
+.naviki:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
 }
 
 .nv{
@@ -461,6 +543,15 @@ text-align: center;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
     text-decoration: none;
+    transition: 2s;
+    display: inline-block;
+}
+
+.pp:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+    color: rgba(251, 249, 249, 1);
 }
 
 .pq{
@@ -488,6 +579,15 @@ text-align: center;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
     text-decoration: none;
+    transition: 2s;
+    display: inline-block;
+}
+
+.pq:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+    color: rgba(251, 249, 249, 1);
 }
 
 .pw{
@@ -515,7 +615,16 @@ text-align: center;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
     text-decoration: none;
+    transition: 2s;
+    display: inline-block;
     }
+
+    .pw:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+    color: rgba(251, 249, 249, 1);
+}
 
     .pe{
     width: 500;
@@ -542,7 +651,16 @@ text-align: center;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
     text-decoration: none;
+    transition: 2s;
+    display: inline-block;
     }
+
+    .pe:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+    color: rgba(251, 249, 249, 1);
+}
 
     .pr{
     width: 500;
@@ -569,8 +687,16 @@ text-align: center;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
     text-decoration: none;
+    transition: 2s;
+    display: inline-block;
     }
 
+    .pr:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+    color: rgba(251, 249, 249, 1);
+}
     .pt{
     width: 500;
     height: 88;
@@ -596,7 +722,16 @@ text-align: center;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
     text-decoration: none;
+    transition: 2s;
+    display: inline-block;
     }
+
+    .pt:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+    color: rgba(251, 249, 249, 1);
+}
 
     .py{
     width: 500;
@@ -623,8 +758,16 @@ text-align: center;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
     text-decoration: none;
+    transition: 2s;
+    display: inline-block;
     }
 
+    .py:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+    color: rgba(251, 249, 249, 1);
+}
     .pu{
     width: 500;
     height: 88;
@@ -650,7 +793,16 @@ text-align: center;
     color: rgba(96, 43, 122, 0.96);
     width: 100%;
     text-decoration: none;
+    transition: 2s;
+    display: inline-block;
     }
+
+    .pu:hover{
+    transition: 1s;
+    display: inline-block;
+    background: rgba(131, 58, 225, 1);
+    color: rgba(251, 249, 249, 1);
+}
 
 .yhenic{
     border: 4px solid rgba(131, 58, 225, 1);
