@@ -30,6 +30,7 @@ header a {
     margin: 0px 35px;
     transition: .5s;
     display: inline-block;
+    text-decoration: none;
 }
 
 .cvc{
@@ -887,6 +888,14 @@ border-radius: 25px;
 object-fit: cover;
 margin: 0px 30px 98px 0px;
 color: white;
+    transition: .5s;
+    display: inline-block;
+}
+
+.imgt:hover{
+    transform: scale(1.2);
+    transition: .5s;
+    display: inline-block;
 }
 
 .itext{
@@ -913,6 +922,15 @@ letter-spacing: 0%;
 color: rgba(96, 43, 122, 0.96);
     text-align: center;
     margin: 0px 53.76px 0px 0px;
+        transition: .5s;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.ee:hover{
+    color: white;
+    transition: .5s;
+    display: inline-block;
 }
 
 .ew{
@@ -925,6 +943,15 @@ line-height: 35px;
 letter-spacing: 0%;
 color: rgba(96, 43, 122, 0.96);
     text-align: center;
+        transition: .5s;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.ew:hover{
+    color: white;
+    transition: .5s;
+    display: inline-block;
 }
 
 .uuu{

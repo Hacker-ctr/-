@@ -4,6 +4,8 @@
     color: #833AE1;
     font-family: Montserrat;
     box-sizing: border-box;
+    transition: .5s;
+
 }
 
 body {
